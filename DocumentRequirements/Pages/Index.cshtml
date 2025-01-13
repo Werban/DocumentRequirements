@@ -1,0 +1,59 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Справочник документов и требований";
+}
+
+<h1>Документы</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Обозначение</th>
+            <th>Дата ввода в действие</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var document in Model.Documents)
+        {
+            <tr>
+                <td>@document.Name</td>
+                <td>@document.Designation</td>
+                <td>@document.EffectiveDate.ToShortDateString()</td>
+                <td>
+                    <form method="post" asp-page="./DeleteDocument" asp-route-id="@document.Id">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h1>Требования</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Обозначение требования</th>
+            <th>Формулировка</th>
+            <th>Документ</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var requirement in Model.Requirements)
+        {
+            <tr>
+                <td>@requirement.RequirementDesignation</td>
+                <td>@requirement.Formulation</td>
+                <td>@requirement.Document.Name</td>
+                <td>
+                    <form method="post" asp-page="./DeleteRequirement" asp-route-id="@requirement.Id">
+                        <button type="submit" class="btn btn-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

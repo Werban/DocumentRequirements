@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\DocumentRequirements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\deleterequirement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\deleterequirement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\deleterequirement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\deleterequirement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\deletedocument.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\deletedocument.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\deletedocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\deletedocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\createrequirement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\createrequirement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\createrequirement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\createrequirement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\createdocument.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\createdocument.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\createdocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\createdocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\models\\requirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\migrations\\20250104124129_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\migrations\\20250104124129_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|d:\\projects\\documentrequirements\\documentrequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5D10441B-13AD-4286-AE9E-DB162079E35B}|DocumentRequirements\\DocumentRequirements.csproj|solutionrelative:documentrequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteDocument.cshtml.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteDocument.cshtml.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\DeleteDocument.cshtml.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteDocument.cshtml.cs",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\DeleteDocument.cshtml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:33:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteRequirement.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteRequirement.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\DeleteRequirement.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteRequirement.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\DeleteRequirement.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:34:20.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteRequirement.cshtml.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteRequirement.cshtml.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\DeleteRequirement.cshtml.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteRequirement.cshtml.cs",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\DeleteRequirement.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:34:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:30:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentRequirements\\appsettings.json",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\appsettings.json",
+              "RelativeToolTip": "DocumentRequirements\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:20:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Program.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Program.cs",
+              "RelativeToolTip": "DocumentRequirements\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:19:55.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteDocument.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteDocument.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\DeleteDocument.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\DeleteDocument.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\DeleteDocument.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:33:44.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRequirement.cshtml.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateRequirement.cshtml.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\CreateRequirement.cshtml.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateRequirement.cshtml.cs",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\CreateRequirement.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:33:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateRequirement.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateRequirement.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\CreateRequirement.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateRequirement.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\CreateRequirement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:33:04.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateDocument.cshtml.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateDocument.cshtml.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\CreateDocument.cshtml.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateDocument.cshtml.cs",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\CreateDocument.cshtml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:32:30.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateDocument.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateDocument.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\CreateDocument.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\CreateDocument.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\CreateDocument.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:32:19.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T17:04:07.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Requirement.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Models\\Requirement.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Models\\Requirement.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Models\\Requirement.cs",
+              "RelativeToolTip": "DocumentRequirements\\Models\\Requirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:15:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Models\\Document.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Models\\Document.cs",
+              "RelativeToolTip": "DocumentRequirements\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:14:55.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DocumentRequirements\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:16:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DocumentRequirements\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:40:16.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Pages\\Index.cshtml",
+              "RelativeToolTip": "DocumentRequirements\\Pages\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T16:22:25.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250104124129_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Migrations\\20250104124129_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "DocumentRequirements\\Migrations\\20250104124129_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\Migrations\\20250104124129_InitialCreate.Designer.cs",
+              "RelativeToolTip": "DocumentRequirements\\Migrations\\20250104124129_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:39:07.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DocumentRequirements\\docker-compose.yml",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\docker-compose.yml",
+              "RelativeToolTip": "DocumentRequirements\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-04T12:52:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "DocumentRequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\projects\\DocumentRequirements\\DocumentRequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "DocumentRequirements\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAmwDwCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-04T16:52:52.135Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

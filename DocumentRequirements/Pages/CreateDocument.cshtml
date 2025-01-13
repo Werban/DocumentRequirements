@@ -1,0 +1,26 @@
+﻿@page
+@model CreateDocumentModel
+@{
+    ViewData["Title"] = "Добавить документ";
+}
+
+<h1>Добавить документ</h1>
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Document.Name"></label>
+        <input asp-for="Document.Name" class="form-control" />
+        <span asp-validation-for="Document.Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Document.Designation"></label>
+        <input asp-for="Document.Designation" class="form-control" />
+        <span asp-validation-for="Document.Designation" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Document.EffectiveDate"></label>
+        <input asp-for="Document.EffectiveDate" class="form-control" />
+        <span asp-validation-for="Document.EffectiveDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

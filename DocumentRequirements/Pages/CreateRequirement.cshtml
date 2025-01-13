@@ -1,0 +1,28 @@
+﻿@page
+@model CreateRequirementModel
+@{
+    ViewData["Title"] = "Добавить требование";
+}
+
+<h1>Добавить требование</h1>
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Requirement.RequirementDesignation"></label>
+        <input asp-for="Requirement.RequirementDesignation" class="form-control" />
+        <span asp-validation-for="Requirement.RequirementDesignation" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Requirement.Formulation"></label>
+        <textarea asp-for="Requirement.Formulation" class="form-control"></textarea>
+        <span asp-validation-for="Requirement.Formulation" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Requirement.DocumentId"></label>
+        <select asp-for="Requirement.DocumentId" class="form-control" asp-items="Model.DocumentOptions">
+            <option value="">Выберите документ</option>
+        </select>
+        <span asp-validation-for="Requirement.DocumentId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>

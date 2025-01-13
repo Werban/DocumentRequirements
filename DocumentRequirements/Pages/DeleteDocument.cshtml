@@ -1,0 +1,25 @@
+﻿@page
+@model DeleteDocumentModel
+@{
+    ViewData["Title"] = "Удалить документ";
+}
+
+<h1>Удалить документ</h1>
+<h3>Вы уверены, что хотите удалить этот документ?</h3>
+<div>
+    <h4>Документ</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Наименование</dt>
+        <dd class="col-sm-10">@Model.Document.Name</dd>
+        <dt class="col-sm-2">Обозначение</dt>
+        <dd class="col-sm-10">@Model.Document.Designation</dd>
+        <dt class="col-sm-2">Дата ввода в действие</dt>
+        <dd class="col-sm-10">@Model.Document.EffectiveDate.ToShortDateString()</dd>
+    </dl>
+    <form method="post">
+        <input type="hidden" asp-for="Document.Id" />
+        <button type="submit" class="btn btn-danger">Удалить</button>
+        <a asp-page="./Index" class="btn btn-secondary">Отмена</a>
+    </form>
+</div>

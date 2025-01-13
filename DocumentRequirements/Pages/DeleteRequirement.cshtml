@@ -1,0 +1,25 @@
+﻿@page
+@model DeleteRequirementModel
+@{
+    ViewData["Title"] = "Удалить требование";
+}
+
+<h1>Удалить требование</h1>
+<h3>Вы уверены, что хотите удалить это требование?</h3>
+<div>
+    <h4>Требование</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Обозначение требования</dt>
+        <dd class="col-sm-10">@Model.Requirement.RequirementDesignation</dd>
+        <dt class="col-sm-2">Формулировка</dt>
+        <dd class="col-sm-10">@Model.Requirement.Formulation</dd>
+        <dt class="col-sm-2">Документ</dt>
+        <dd class="col-sm-10">@Model.Requirement.Document.Name</dd>
+    </dl>
+    <form method="post">
+        <input type="hidden" asp-for="Requirement.Id" />
+        <button type="submit" class="btn btn-danger">Удалить</button>
+        <a asp-page="./Index" class="btn btn-secondary">Отмена</a>
+    </form>
+</div>
