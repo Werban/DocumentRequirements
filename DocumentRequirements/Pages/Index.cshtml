@@ -5,6 +5,19 @@
 }
 
 <h1>Документы</h1>
+
+<!-- Форма для фильтрации требований по документу -->
+<form method="get">
+    <div class="form-group">
+        <label for="SelectedDocumentId">Выберите документ:</label>
+        <select asp-for="SelectedDocumentId" asp-items="Model.Documents.Select(d => new SelectListItem { Value = d.Id.ToString(), Text = d.Name })" class="form-control">
+            <option value="">Все документы</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Применить фильтр</button>
+</form>
+
+<!-- Таблица документов -->
 <table class="table">
     <thead>
         <tr>
@@ -32,6 +45,8 @@
 </table>
 
 <h1>Требования</h1>
+
+<!-- Таблица требований -->
 <table class="table">
     <thead>
         <tr>
